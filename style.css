@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 380px;
+    margin: 100px auto;
+    text-align: center;
+
+}
+input{
+    height: 48px;
+    margin-bottom: 18px;
+    font-size: 17px;
+    border: 2px solid rgb(85, 85, 85);
+}
+input:focus{
+    border-color: rgb(13, 110, 253);
+    box-shadow: none;
+}
+.start-btn{
+    padding: 10px 25px;
+    font-size: 18px;
+    margin-top: 2px;
+}
